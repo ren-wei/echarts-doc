@@ -27,7 +27,6 @@ const option = {
 
 {{ use: partial-series-name() }}
 
-<!-- {{ use: partial-circular-layout }} -->
 <!-- overwrite radius -->
 ## radius(number|string) = '75%'
 
