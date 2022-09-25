@@ -14,7 +14,7 @@
 
 {{ use: partial-series-name() }}
 
-{{ use: partial-circular-layout }}
+<!-- {{ use: partial-circular-layout }} -->
 <!-- overwrite radius -->
 ## radius(number|string) = '75%'
 The radius of gauge chart. It can be a percentage value of the smaller of container half width and half height, also can be an absolute value.
